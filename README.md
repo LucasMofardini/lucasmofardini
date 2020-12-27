@@ -1,5 +1,5 @@
 <h1 align="center"> Bem Vindo </h1>
-<hr>
+
 <p align="center"> LUCAS MOFARDINI </p>
 <div align="center">
   <a href="https://github.com/LucasMofardini"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>
