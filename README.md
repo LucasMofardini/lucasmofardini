@@ -38,6 +38,10 @@
       src="https://github-readme-stats.vercel.app/api?username=lucasmofardini&count_private=true&show_icons=true&custom_title=Lucas%20Git%20Status&hide=issues&theme=gotham"
     />
   </a>
+
+
+  <img align="center"
+  width="100%"   height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
+
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
