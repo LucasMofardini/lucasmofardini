@@ -28,3 +28,15 @@
  <a target="_blank" href="https://cursos.alura.com.br/certificate/ce70d827-7683-4fba-bb8f-2b24b9ab41bc"> <img src="https://img.shields.io/static/v1?label=&message=JAVA-2&color=Lime" /></a>   <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/primeiros-passos-antes-de-criar-um-site/certificate"> <img src="https://img.shields.io/static/v1?label=&message=MARKETING-DIGITAL&color=brown" /></a>  </li>
  <li style="padding:10px;"><img src="https://img.shields.io/static/v1?label=&message=PROMPT-DE-COMANDO&color=navy" /></li>
 </ul>
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=lucasmofardini&count_private=true&show_icons=true&custom_title=Lucas%20Git%20Status&hide=issues&theme=gotham"
+    />
+  </a>
+</p>
+https://github-readme-stats.vercel.app/api?username=lucasmofardini
