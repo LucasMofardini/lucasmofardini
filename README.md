@@ -39,4 +39,4 @@
     />
   </a>
 </p>
-https://github-readme-stats.vercel.app/api?username=lucasmofardini
+<!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
