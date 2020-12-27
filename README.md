@@ -30,7 +30,7 @@
 </ul>
 
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -40,7 +40,8 @@
   </a>
 
   <img
-   height="210"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
+   height="210"
+   align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
 </p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
