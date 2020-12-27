@@ -16,14 +16,14 @@
 
  <li style="padding:10px;">  
  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/avancando-html-css/certificate"> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=green" /> </a>
-  |<a target="_blank" href="https://www.origamid.com/certificate/a35a097a/"> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" /> </a> | <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=gold" /> | <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/javascript-programando-na-linguagem-web/certificate"> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=pink" />
+   <a target="_blank" href="https://www.origamid.com/certificate/a35a097a/"> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" /> </a>   <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=gold" />   <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/javascript-programando-na-linguagem-web/certificate"> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=pink" />
   </a>
-|<a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/jquery-a-biblioteca-do-mercado/certificate">  <img src="https://img.shields.io/static/v1?label=&message=JQUERY&color=purple" /> </a>  </li>
+ <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/jquery-a-biblioteca-do-mercado/certificate">  <img src="https://img.shields.io/static/v1?label=&message=JQUERY&color=purple" /> </a>  </li>
 
  <li style="padding:10px;">
- <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/ux-base/certificate"><img src="https://img.shields.io/static/v1?label=&message=UX&color=orange" /> </a> |<a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/photoshop-web-1/certificate"> <img src="https://img.shields.io/static/v1?label=&message=PHOTOSHOP&color=red" /></a></li>
+ <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/ux-base/certificate"><img src="https://img.shields.io/static/v1?label=&message=UX&color=orange" /> </a>  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/photoshop-web-1/certificate"> <img src="https://img.shields.io/static/v1?label=&message=PHOTOSHOP&color=red" /></a></li>
  <li style="padding:10px;">
-  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/java-primeiros-passos/certificate"><img src="https://img.shields.io/static/v1?label=&message=JAVA-1&color=indigo" /></a> |
- <a target="_blank" href="https://cursos.alura.com.br/certificate/ce70d827-7683-4fba-bb8f-2b24b9ab41bc"> <img src="https://img.shields.io/static/v1?label=&message=JAVA-2&color=Lime" /></a> | <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/primeiros-passos-antes-de-criar-um-site/certificate"> <img src="https://img.shields.io/static/v1?label=&message=MARKETING-DIGITAL&color=brown" /></a>  </li>
+  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/java-primeiros-passos/certificate"><img src="https://img.shields.io/static/v1?label=&message=JAVA-1&color=indigo" /></a>  
+ <a target="_blank" href="https://cursos.alura.com.br/certificate/ce70d827-7683-4fba-bb8f-2b24b9ab41bc"> <img src="https://img.shields.io/static/v1?label=&message=JAVA-2&color=Lime" /></a>   <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/primeiros-passos-antes-de-criar-um-site/certificate"> <img src="https://img.shields.io/static/v1?label=&message=MARKETING-DIGITAL&color=brown" /></a>  </li>
  <li style="padding:10px;"><img src="https://img.shields.io/static/v1?label=&message=PROMPT-DE-COMANDO&color=navy" /></li>
 </ul>
