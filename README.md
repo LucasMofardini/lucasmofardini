@@ -12,7 +12,7 @@
 
 </div>
 <ul>
-<b>Certificados</b>
+<b>Conhecimentos</b>
 
  <li style="padding:10px;">  
  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/avancando-html-css/certificate"> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=green" /> </a>
