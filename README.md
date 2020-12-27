@@ -39,5 +39,5 @@
     />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
