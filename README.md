@@ -30,18 +30,17 @@
 </ul>
 
 
-<p align="center">
+<p style="display:flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="200"
+      height="110"
+      style="margin:5px;"
       src="https://github-readme-stats.vercel.app/api?username=lucasmofardini&count_private=true&show_icons=true&custom_title=Lucas%20Git%20Status&hide=issues&theme=gotham"
     />
   </a>
-
-
-  <img align="center"
-  width="100%"   height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
+  <img
+   height="120" style="margin:5px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmofardini&layout=compact&theme=gotham">
 </p>
 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
