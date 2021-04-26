@@ -37,7 +37,6 @@
 </ul>
 
 
-<h2>Currículo Web</h2>
-<a target="_blank" style="background-color:transparent;padding:10px 5px; border:1px solid black;" src="https://lucasmofardini.github.io/">Ver Curriculo</a>
-
+<h3>Currículo Web</h3>
+ <a target="_blank" href="https://lucasmofardini.github.io/"><img src="https://img.shields.io/static/v1?label=&message=VER&color=orange" /></a> 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
