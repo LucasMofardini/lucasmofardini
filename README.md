@@ -37,6 +37,6 @@
 </ul>
 
 
-
+<h2><a src="https://lucasmofardini.github.io/">Currículo Web</a></h2>
 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
