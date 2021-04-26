@@ -35,8 +35,6 @@
  <a target="_blank" href="https://cursos.alura.com.br/certificate/ce70d827-7683-4fba-bb8f-2b24b9ab41bc"> <img src="https://img.shields.io/static/v1?label=&message=JAVA-2&color=Lime" /></a>   <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/primeiros-passos-antes-de-criar-um-site/certificate"> <img src="https://img.shields.io/static/v1?label=&message=MARKETING-DIGITAL&color=brown" /></a>  </li>
  <li style="padding:5px;"><img src="https://img.shields.io/static/v1?label=&message=PROMPT-DE-COMANDO&color=navy" /></li>
 </ul>
-
-
-<h3>Currículo Web</h3>
- <a target="_blank" href="https://lucasmofardini.github.io/"><img src="https://img.shields.io/static/v1?label=&message=VER&color=orange" /></a> 
+</br>
+ <a target="_blank" href="https://lucasmofardini.github.io/"><img src="https://img.shields.io/static/v1?label=&message=Currículo-Web&color=orange" /></a> 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
