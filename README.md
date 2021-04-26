@@ -36,5 +36,5 @@
  <li style="padding:5px;"><img src="https://img.shields.io/static/v1?label=&message=PROMPT-DE-COMANDO&color=navy" /></li>
 </ul>
 </br>
- <a target="_blank" href="https://lucasmofardini.github.io/"><img src="https://img.shields.io/static/v1?label=&message=Currículo-Web&color=orange" /></a> 
+ <a target="_blank" href="https://lucasmofardini.github.io/"><img src="https://img.shields.io/static/v1?label=&message=Curriculo-Web&color=orange" /></a> 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
