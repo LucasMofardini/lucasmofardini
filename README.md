@@ -20,7 +20,7 @@
 </div>
 <ul>
 <b>Conhecimentos</b>
-
+</br>
  <li style="padding:5px;">  
  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/avancando-html-css/certificate"> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=green" /> </a>
    <a target="_blank" href="https://www.origamid.com/certificate/a35a097a/"> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" /> </a>   <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=gold" />   <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/javascript-programando-na-linguagem-web/certificate"> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=pink" />
@@ -37,6 +37,7 @@
 </ul>
 
 
-<h2><a src="https://lucasmofardini.github.io/">Currículo Web</a></h2>
+<h2>Currículo Web</h2>
+<a target="_blank" style="background-color:transparent;padding:10px 5px; border:1px solid black;" src="https://lucasmofardini.github.io/">Ver Curriculo</a>
 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
