@@ -3,7 +3,8 @@
 
 <p align="center" style="font-family:mono;"> LUCAS MOFARDINI </p>
 <div align="center" style="font-family:mono;">
-  <a href="https://github.com/LucasMofardini"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>
+  <!-- <a href="https://github.com/LucasMofardini"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> -->
+   <a target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="40px" style="padding:10px 10px;" /></a> 
   <a href="https://www.linkedin.com/in/lucas-mofardini-b37b83164/"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 </div>
