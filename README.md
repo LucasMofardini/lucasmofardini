@@ -36,5 +36,5 @@
  <li style="padding:5px;"><img src="https://img.shields.io/static/v1?label=&message=PROMPT-DE-COMANDO&color=navy" /></li>
 </ul >
 </br>
- <a style="padding:0 20px;text-decoration:none; display:flex;align-items: center;color:white;border:1px solid black; justify-content:space-between;background-color:black; white;font-weight:bold;font-family:mono; border-radius:5px" target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="50px" style="padding:10px 10px;" /></a> 
+ <a target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="50px" style="padding:10px 10px;" /></a> 
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
