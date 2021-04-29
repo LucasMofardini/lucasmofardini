@@ -4,15 +4,16 @@
 <p align="center" style="font-family:mono;"> LUCAS MOFARDINI </p>
 <div align="center" style="font-family:mono;">
   <!-- <a href="https://github.com/LucasMofardini"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> -->
-   <a target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="40px" style="padding:10px 10px;" /></a> 
+   <!-- <a target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="40px" style="padding:10px 10px;" /></a>  -->
+  <a href="https://lucasmofardini.github.io"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-Curriculo-black?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/lucas-mofardini-b37b83164/"><img width="200px;" height="50px;" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 </div>
 </br>
-
+<a align="right" href="https://lucasmofardini.github.io/">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador Lucas">
-
+ </a>
 
 <h3 style="font-family:mono;">Sobre mim </h3>
 <div style="font-family:mono;">
@@ -37,5 +38,5 @@
  <li style="padding:5px;"><img src="https://img.shields.io/static/v1?label=&message=PROMPT-DE-COMANDO&color=navy" /></li>
 </ul >
 </br>
- <a target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="50px" style="padding:10px 10px;" /></a> 
+ <!-- <a target="_blank" href="https://lucasmofardini.github.io/"><img src="img-curriculo.png" width="50px" style="padding:10px 10px;" /></a>  -->
 <!-- https://github-readme-stats.vercel.app/api?username=lucasmofardini -->
