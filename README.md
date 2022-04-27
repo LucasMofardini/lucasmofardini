@@ -27,7 +27,10 @@
  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/avancando-html-css/certificate"> <img src="https://img.shields.io/static/v1?label=&message=HTML&color=green" /> </a>
    <a target="_blank" href="https://www.origamid.com/certificate/a35a097a/"> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue" /> </a>   <img src="https://img.shields.io/static/v1?label=&message=BOOTSTRAP&color=gold" />   <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/javascript-programando-na-linguagem-web/certificate"> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=pink" />
   </a>
- <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/jquery-a-biblioteca-do-mercado/certificate">  <img src="https://img.shields.io/static/v1?label=&message=JQUERY&color=purple" /> </a>  </li>
+ <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/jquery-a-biblioteca-do-mercado/certificate">  <img src="https://img.shields.io/static/v1?label=&message=JQUERY&color=purple" /> </a>  
+ <a target="_blank" href="#"> <img src="https://img.shields.io/static/v1?label=&message=REACT&color=black" /> </a>  
+  </a>
+ </li>
 
  <li style="padding:5px;" style="font-family:mono;">  
  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/ux-base/certificate"><img src="https://img.shields.io/static/v1?label=&message=UX&color=orange" /> </a>  <a target="_blank" href="https://cursos.alura.com.br/user/lucasmofardini/course/photoshop-web-1/certificate"> <img src="https://img.shields.io/static/v1?label=&message=PHOTOSHOP&color=red" /></a>
